@@ -29,32 +29,32 @@ Modelo de portfólio pessoal
 ├── LICENSE.txt
 └── assets
     ├── css
-	├── images
-		├── ie
-			├── footer.png
-			└── footer.svg
-		├── bg.jpg
-		├── overlay-pattern.png
-		└── overlay.svg
-	├── fontawesome-all.min.css
-	├── main.css
-        └── noscript.css
+    │	├── images
+    │	│	├── ie
+    │	│	│	├── footer.png
+    │	│	│	└── footer.svg
+    │	│	├── bg.jpg
+    │	│	├── overlay-pattern.png
+    │	│	└── overlay.svg
+    │	├── fontawesome-all.min.css
+    │	├── main.css
+    │   └── noscript.css
     ├── files
-	└── curriculo.pdf
+    │	└── curriculo.pdf
     ├── fonts
-	├── Dulcelin.otf
-	└── READ ME.txt
+    │	├── Dulcelin.otf
+    │	└── READ ME.txt
     ├── js
-	└── scripts.js
+    │	└── scripts.js
     ├── sass
-	├── libs
-		├── _breakpoint.scss
-		├── _functions.scss
-		├── _mixins.scss
-		├── _vars.scss
-		└── _vendor.scss
-	├── main.css
- 	└── noscript.scss
+    │	├── libs
+    │	│	├── _breakpoint.scss
+    │	│       ├── _functions.scss
+    │	│	├── _mixins.scss
+    │	│       ├── _vars.scss
+    │	│	└── _vendor.scss
+    │	├── main.css
+    │	└── noscript.scss
     └── webfonts
 	├── fa-brands-400.eot
 	├── fa-brands-400.svg
