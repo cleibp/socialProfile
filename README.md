@@ -25,10 +25,56 @@ Modelo de portfólio pessoal
 ```sh
 .
 ├── README.md
+├── index.html
+├── LICENSE.txt
+└── assets
+    ├── css
+	├── images
+		├── ie
+			├── footer.png
+			└── footer.svg
+		├── bg.jpg
+		├── overlay-pattern.png
+		└── overlay.svg
+	├── fontawesome-all.min.css
+	├── main.css
+        └── noscript.css
+    ├── files
+	└── curriculo.pdf
+    ├── fonts
+	├── Dulcelin.otf
+	└── READ ME.txt
+    ├── js
+	└── scripts.js
+    ├── sass
+	├── libs
+		├── _breakpoint.scss
+		├── _functions.scss
+		├── _mixins.scss
+		├── _vars.scss
+		└── _vendor.scss
+	├── main.css
+ 	└── noscript.scss
+    └── webfonts
+	├── fa-brands-400.eot
+	├── fa-brands-400.svg
+	├── fa-brands-400.ttf
+	├── fa-brands-400.woff
+ 	├── fa-brands-400.woff2
+	├── fa-regular-400.eot
+	├── fa-regular-400.svg
+	├── fa-regular-400.ttf
+	├── fa-regular-400.woff
+	├── fa-regular-400.woff2
+	├── fa-solid-900.eot
+	├── fa-solid-900.svg
+	├── fa-solid-900.ttf
+	├── fa-solid-900.woff
+	└── fa-solid-900.woff2
 ```
 
 ## 👋🏽 DEMO
-[Surge](http://cleibp.surge.sh/) 
+[Publicação em Surge](http://cleibp.surge.sh/) 
 
 ## Contatos
 
